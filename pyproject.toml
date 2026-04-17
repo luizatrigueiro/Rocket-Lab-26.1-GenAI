@@ -1,0 +1,12 @@
+[project]
+name = "rocket-lab-26-1-genai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "annotated-types>=0.7.0",
+    "pydantic>=2.13.2",
+    "pydantic-ai>=1.84.0",
+    "python-dotenv>=1.2.2",
+]
